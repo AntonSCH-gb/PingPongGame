@@ -28,7 +28,6 @@
 @property (strong, nonatomic) UILabel *scoreTop;
 @property (strong, nonatomic) UILabel *scoreBottom;
 
-
 @end
 
 @implementation GameViewController
