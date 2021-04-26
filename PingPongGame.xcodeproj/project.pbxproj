@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		EE02B6232636292600531ED1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EE02B6222636292600531ED1 /* AppDelegate.m */; };
-		EE02B6262636292600531ED1 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EE02B6252636292600531ED1 /* SceneDelegate.m */; };
 		EE02B6292636292600531ED1 /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE02B6282636292600531ED1 /* GameViewController.m */; };
 		EE02B62C2636292600531ED1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE02B62A2636292600531ED1 /* Main.storyboard */; };
 		EE02B62E2636292A00531ED1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE02B62D2636292A00531ED1 /* Assets.xcassets */; };
@@ -20,8 +19,6 @@
 		EE02B61E2636292600531ED1 /* PingPongGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PingPongGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE02B6212636292600531ED1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		EE02B6222636292600531ED1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		EE02B6242636292600531ED1 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
-		EE02B6252636292600531ED1 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
 		EE02B6272636292600531ED1 /* GameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
 		EE02B6282636292600531ED1 /* GameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
 		EE02B62B2636292600531ED1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -63,8 +60,6 @@
 			children = (
 				EE02B6212636292600531ED1 /* AppDelegate.h */,
 				EE02B6222636292600531ED1 /* AppDelegate.m */,
-				EE02B6242636292600531ED1 /* SceneDelegate.h */,
-				EE02B6252636292600531ED1 /* SceneDelegate.m */,
 				EE02B6272636292600531ED1 /* GameViewController.h */,
 				EE02B6282636292600531ED1 /* GameViewController.m */,
 				EE02B62A2636292600531ED1 /* Main.storyboard */,
@@ -148,7 +143,6 @@
 				EE02B6292636292600531ED1 /* GameViewController.m in Sources */,
 				EE02B6232636292600531ED1 /* AppDelegate.m in Sources */,
 				EE02B6342636292A00531ED1 /* main.m in Sources */,
-				EE02B6262636292600531ED1 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
